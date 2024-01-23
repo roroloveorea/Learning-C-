@@ -1,0 +1,8 @@
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\bin\Debug\TurnBased.exe.config
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\bin\Debug\TurnBased.exe
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\bin\Debug\TurnBased.pdb
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\obj\Debug\TurnBased.csproj.AssemblyReference.cache
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\obj\Debug\TurnBased.csproj.SuggestedBindingRedirects.cache
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\obj\Debug\TurnBased.csproj.CoreCompileInputs.cache
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\obj\Debug\TurnBased.exe
+C:\Users\AU0013KE\source\repos\TurnBased\TurnBased\obj\Debug\TurnBased.pdb
